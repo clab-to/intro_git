@@ -1,2 +1,4 @@
 git sample
 sample 2
+git add
+git commit
